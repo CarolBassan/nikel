@@ -1,6 +1,5 @@
 # nikel..
 Projeto Nikel, Growdev
-http://127.0.0.1:5500/public/index.html
 
 ![Captura de tela 2022-05-28 181314](https://user-images.githubusercontent.com/96602170/170843159-b46f1447-787f-4c8e-bfb0-8aa3deb6eaa1.png)
 ![Captura de tela 2022-05-28 181448d](https://user-images.githubusercontent.com/96602170/170843164-81316176-6b98-43a8-8eda-9f34cde7e4a0.png)
